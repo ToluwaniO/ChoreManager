@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Chore Manager</string>
+    <string name="list_item_name_default">Name</string>
+    <string name="list_item_notes_default">Allocated tasks: 20</string>
 </resources>
